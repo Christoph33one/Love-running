@@ -161,6 +161,10 @@ hr {
     background-image: url('../ethos-center-image.jpg');
     height: 100%;
     border-radius: 50%;
+}
 
+/* event times*/
 
+#times {
+    background-image: url("../dublin-city.webp");
 }
