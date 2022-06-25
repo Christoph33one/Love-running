@@ -185,5 +185,23 @@ hr {
 }
 
 #times h2 {
-    color: #fafaf;
+    color: #fafafa;
 }
+footer{
+    height: 150px;
+}
+
+.social-networking {
+    text-align: center;
+}
+.social-networking  li  {
+    display: inline;
+}
+.social-networking i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+    
+}
+
