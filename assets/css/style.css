@@ -219,8 +219,9 @@ footer{
         width: 65%;
         height: 1200px;
     }
-    
 }
+    
+    
 
 #welcome {
     padding: 30px 0;
@@ -240,3 +241,17 @@ footer{
 hr {
     display: none;
 }
+/* For meduim screen sizes from 950px wide and down  */
+
+@media screen (max-wdith: 950px) {
+    
+        #media {
+        clear:left;
+        float:left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 250px;
+        }
+    }
+
+
