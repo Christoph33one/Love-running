@@ -215,10 +215,10 @@ footer{
 
 /* Media queries ( remember to put the open and closed brackets in the correct positions!!! add AND (max-width ) !!!) */
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;
-        height: 1000px;
+        height: 1200px;
         margin: 0 auto;
     }
 
@@ -240,6 +240,12 @@ footer{
        hr {
         display: none;
        }
+       #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+       }
     }
 
     /* For medium size screens from 950px wide and down*/
@@ -252,7 +258,6 @@ footer{
             margin-bottom: 20px;
             line-height: 25px;
         }
-        
         #cover-text {
             left: 0;
         }
